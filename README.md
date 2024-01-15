@@ -6,10 +6,19 @@ can help us developers automate some of the tasks that are annoying and time eff
 You can clone it and test it yourself, here are the steps :
 
 1. Clone the project
-```git clone https://github.com/CyrilPerrinjaquet/cli-quiz.git```
+```
+git clone https://github.com/CyrilPerrinjaquet/cli-quiz.git
+```
 
-2. Start the project
-```node index.js```
+2. Install depedencies
+```
+npm install
+```
+
+3. Run the app
+```
+node index.js
+```
 
  Then you can modify som equestions as you like!
 
